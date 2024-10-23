@@ -6,7 +6,7 @@ import VenueList from './venues/VenueList';
 import CreateVenue from './venues/CreateVenue';  
 import EventList from './events/EventList';  
 import CreateEvent from './events/CreateEvent';
-
+//comment to test git
 // Import Attendee components
 import AttendeeList from './attendees/AttendeeList';  
 import CreateAttendee from './attendees/CreateAttendee';  
